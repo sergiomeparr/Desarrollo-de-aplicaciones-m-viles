@@ -1,0 +1,10 @@
+Ejercicios 
+
+Dado un numero natural mostrar si es primo, o no lo es.
+Dado un numero natural, mostrar si es fibonacci, o no lo es.
+Dado una cadena, mostrar si es palindrome, o no lo es.
+Diseñar un MIDlet que muestre una agenda con:
+Nombre, Sexo, Correo, Teléfono, Fecha, Foto y Pasatiempos.
+
+
+https://www.youtube.com/watch?v=_EG22jDHGaQ
